@@ -1,0 +1,102 @@
+h1 {background-color: rgb(255, 255, 255);
+color: rgb(214, 196, 116);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 40PX;
+font-style: italic;
+border-color:#444;
+}
+
+#showcase_pancakes {
+    background-image: url("https://www.recipetineats.com/wp-content/uploads/2017/06/Pancakes-featured.jpg?resize=650,910");
+    background-position: center;
+    height: 1000px;
+    background-repeat: no-repeat;
+}
+
+#showcase_french_toast {
+    background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2020%2F02%2Ffluffy-french-toast.jpg");
+    background-position: center;
+    height: 1000px;
+    background-repeat: no-repeat;
+}
+
+#showcase_waffles {
+    background-image: url("https://static01.nyt.com/images/2022/01/18/dining/mc-Easy-Weekend-Waffles/merlin_200484558_c16c33dd-eda4-43a0-a063-29570a6de5f5-articleLarge.jpg");
+    background-position: center;
+    height: 525px;
+    background-repeat: no-repeat;
+}
+
+.container1 {
+    text-indent: 20px;
+    word-spacing: 20px;
+
+}
+
+.container1 {
+    width: 80%;
+overflow: hidden;
+}
+
+#navbar {
+    background-color: rgb(214, 196, 116);
+    color: #fff;
+    border: 3px;
+}
+
+#navbar ul {
+    padding: 0;
+    list-style: none;
+}
+
+
+
+#navbar a {
+    color: #fff;
+    text-decoration-color: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding: right 15px;
+}
+
+.container3 {
+    background-color: rgb(214, 196, 116);
+}
+
+.container3 ul {
+    font-size: 18px; 
+    color: #444;
+    border-color: #444;
+}
+
+.container3 ol {
+    font-size: 18px; 
+    color: #444;
+    border-color: #444;
+    
+}
+
+
+.container2 { 
+    background-color: rgb(216, 214, 206);
+    text-align: center;
+}
+
+.containernav {
+    width: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+svg {
+    display: inline-block;
+}
+
+.containerH { 
+    color:rgb(187, 152, 55);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+}
